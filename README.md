@@ -41,7 +41,7 @@
 
 1. I din HTML-fil kodar du upp ett registreringsformulär innehållandes username, password x 2, email, telefonnummer. Styla gärna om du vill.
 2. I din TypeScript skapar du nu en valideringsfunktion som körs när användaren klickar på **Registrera**.
-3. Hur gör du för att sätta en preventDefault nu i din funktion?
+3. Hur gör du för att sätta en preventDefault nu i din funktion? Vilken typ får ditt event-objekt?
 4. Typa upp dina DOM-element så att du kan komma åt inputfältens value-attribut.
 5. Glöm inte att definiera vilken datatyp returen från din valideringsfunktion består utav.
 
